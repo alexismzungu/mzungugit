@@ -46,6 +46,10 @@ $resultat=$pdo->query( $requete);
           ?> 
 
           <?php ?>
+
+          <?php 
+
+          "Mzungu";?>
       <?php require'partials/footer.php'; ?>
     </div><!--fermeture du conteneur du site-->
   </body>
