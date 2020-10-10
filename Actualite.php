@@ -44,6 +44,8 @@ $resultat=$pdo->query( $requete);
             <?php 
           }
           ?> 
+
+          <?php ?>
       <?php require'partials/footer.php'; ?>
     </div><!--fermeture du conteneur du site-->
   </body>
